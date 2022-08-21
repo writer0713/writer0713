@@ -7,7 +7,7 @@
 - RDBMS (Oracle, MariaDB, MSSQL)
 -->
 
-<div align="center">
+<div>
 
 Hi there 👋 I'm Junghwan 😎
 
